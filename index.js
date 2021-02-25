@@ -1,3 +1,4 @@
+// Source Kode by L-M0/not-Found//
 const {
     WAConnection,
     MessageType,
@@ -33,9 +34,9 @@ const antilink = JSON.parse(fs.readFileSync('./src/antilink.json'))
 const { removeBackgroundFromImageFile } = require('remove.bg')
 const vcard = 'BEGIN:VCARD\n' // jangan diubah
             + 'VERSION:3.0\n' // ini juga jangan diubah
-            + 'FN: 404 NOT FOUND\n' // ganti nama lu
+            + 'HARDI-ANTO[THE OWNER]\n' // ganti nama lu
             + 'ORG:ERROR 404 NOT FOUND;\n' // kasih bio wa lu
-            + 'TEL;type=CELL;type=VOICE;waid=6288742689173:+62 887-4268-9173\n' // ganti ke nomor lu
+            + 'TEL;type=CELL;type=VOICE;waid=6287811078485:+62 878-1107-8485\n' // ganti ke nomor lu
             + 'END:VCARD'
 prefix = '-' // ganti simbol nya sesuka hati
 blocked = ['601162331191@s.whatsapp.net'] 
