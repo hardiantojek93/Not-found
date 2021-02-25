@@ -121,7 +121,6 @@ const help = (prefix, uptime, jam, tanggal, positif, meninggal, sembuh, perawata
 ┝⋗ *${prefix}loli2* ᴮᵁᴳ
 ┝⋗ *${prefix}waifu*
 ┝⋗ *${prefix}waifu2*
-┝⋗ *${prefix}wibu*
 ┝⋗ *${prefix}randomanime* 
 ┝⋗ *${prefix}shota* 
 ┝⋗ *${prefix}foxgirl*
