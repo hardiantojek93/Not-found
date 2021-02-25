@@ -1,12 +1,12 @@
 const help = (prefix, uptime, jam, tanggal, positif, meninggal, sembuh, perawatan) => { 
 	return `
 
-❒「 *𝗚𝗙𝗟* 」
+❒「 *PAIMON-BOT* 」
 │
 ┝⋗  HOURS : *${jam} WIB*
 ┝⋗  DATE : *${tanggal}*
 ┝⋗  VERSION: *1.2*
-┝⋗   OWNER : 𝙇╸𝙈𝟬
+┝⋗   OWNER : PAIMON-BOT
 ┢━━━━━❪㊕❫━━━━━
 ┣━━‣ *𝘾𝙊𝙑𝙄𝘿*
 ┃
@@ -19,7 +19,7 @@ const help = (prefix, uptime, jam, tanggal, positif, meninggal, sembuh, perawata
 ┃
 ┗━━━━⟮注意⟯━━━━━
 
-❒『 *GFL BOT* 』
+❒『 *PAIMON BOT* 』
 │
 ┝⋗ *${prefix}info*
 ┝⋗ *${prefix}donasi*
@@ -200,13 +200,8 @@ const help = (prefix, uptime, jam, tanggal, positif, meninggal, sembuh, perawata
 │
 ┢━━━━━❪❐❫━━━━━
 ┣━━‣ *𝙏𝙝𝙖𝙣𝙠*
-┃
-┃◎𝙇-𝙈𝙊 
-┃◎𝙍𝘼𝘿𝙔𝘼
-┃◎𝙃𝙆 𝟰𝟭𝟲
-┃
-┃◎𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
-┃
+┃◎ Souce Kode byk: 
+┃◎!Source
 ┗━━━━━❪❐❫━━━━━
 `
 }
